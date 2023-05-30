@@ -1,0 +1,4 @@
+git remote add upstream <original_repo_url> to track changes
+git fetch upstream - to fetch changes made online
+git checkout <main> to chack the branch that has the changes
+git pull upstream <main> to pull the changes to the local repo
